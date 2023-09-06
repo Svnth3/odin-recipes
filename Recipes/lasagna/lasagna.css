@@ -1,0 +1,30 @@
+.title{
+    font-weight: bold;
+    font-style: italic,verdana;
+    text-align: center;
+    font-size: 25px;
+}
+
+.second,.third{
+    text-align: left;
+    font-size: 18px;
+}
+
+.lasagna{
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main{
+    border: auto;
+    border-color: black;
+    border-radius: 25px;
+    height: auto;
+    width: 100px;
+}
+*{
+    background-color: yellow;
+}

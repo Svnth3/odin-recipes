@@ -1,0 +1,28 @@
+.lasagna{
+    background-color: white;
+    font-weight: bold;
+    font-style: italic,times;
+    
+}
+
+.potato{ 
+    background-color: white;
+    font-weight: bold;
+    font-style: italic, times;
+
+}
+
+.primeiro,
+.segundo{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.title{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+}
+
